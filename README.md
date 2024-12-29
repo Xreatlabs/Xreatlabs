@@ -2,7 +2,7 @@
 
 Welcome to Xreatlabs GitHub! We are  passionate to make easy Script from Install. we specialize in Making quick Installation script and love creating innovative solutions. Currently, we are focusing on quick installation.
 
-### 🚀 Technologies I Use:
+### 🚀 Technologies We Use:
 - **Languages:** Python, JavaScript, Go
 - **Frameworks:** React, Node.js
 - **Cloud/DevOps:** AWS, Docker, Kubernetes
@@ -18,3 +18,5 @@ Welcome to Xreatlabs GitHub! We are  passionate to make easy Script from Install
 ### 🌐 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/soon)
 - [Twitter](https://twitter.com/soon)
+- [Instagram](https://www.instagram.com/xreatlabs)
+- [Discord](https://discord.gg/Xreatlabs)
