@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="path-to-logo/logo.png" alt="XreatLabs Logo" width="200">
+</p>
 ## Hey, we are Xreatlabs👋
 
 Welcome to Xreatlabs GitHub! We are  passionate to make easy Script from Install. we specialize in Making quick Installation script and love creating innovative solutions. Currently, we are focusing on quick installation.
