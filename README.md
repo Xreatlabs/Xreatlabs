@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="path-to-logo/logo.png" alt="XreatLabs Logo" width="200">
+  <img src="logo.png" alt="XreatLabs Logo" width="200">
 </p>
 ## Hey, we are Xreatlabs👋
 
