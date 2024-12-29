@@ -15,7 +15,7 @@ Welcome to Xreatlabs GitHub! We are  passionate to make easy Script from Install
 - [Project 1](https://github.com/Xreatlabs/mcsoftware-installer ): it install Minecraft server software like Paper,purper,bungee, velocity,etc.
 - [Project 2](https://github.com/Xreatlabs/panel-installer ): it install Game panel in 1 click.
 
-### 🌐 Connect with Me:
+### 🌐 Connect with Us:
 - [LinkedIn](https://www.linkedin.com/in/soon)
 - [Twitter](https://twitter.com/soon)
 - [Instagram](https://www.instagram.com/xreatlabs)
