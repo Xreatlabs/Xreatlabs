@@ -9,7 +9,7 @@ Welcome to Xreatlabs GitHub! We are  passionate to make easy Script from Install
 - **Database:** PostgreSQL, MongoDB
 
 ### 📈 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xreatlabs&show_icons=true&count_private=true&theme=radical)
 
 ### 💻 Pinned Projects:
 - [Project 1](https://github.com/Xreatlabs/mcsoftware-installer ): it install Minecraft server software like Paper,purper,bungee, velocity,etc.
