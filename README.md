@@ -1,7 +1,7 @@
 <p align="center">
   <img src="Gemini_Generated_Image_73ixf473ixf473ix.jpeg" alt="XreatLabs Logo" width="200">
 </p>
-## Hey, we are Xreatlabs👋
+### Hey, we are Xreatlabs👋
 
 Welcome to Xreatlabs GitHub! We are  passionate to make easy Script from Install. we specialize in Making quick Installation script and love creating innovative solutions. Currently, we are focusing on quick installation.
 
