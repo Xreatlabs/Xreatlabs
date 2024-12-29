@@ -22,4 +22,4 @@ Welcome to Xreatlabs GitHub! We are  passionate to make easy Script from Install
 - [LinkedIn](https://www.linkedin.com/in/soon)
 - [Twitter](https://twitter.com/soon)
 - [Instagram](https://www.instagram.com/xreatlabs)
-- [Discord](https://discord.gg/Xreatlabs)
+- [Discord](https://discord.gg/yAgRafG6JD)
