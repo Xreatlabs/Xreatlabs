@@ -19,6 +19,6 @@ Welcome to Xreatlabs GitHub! We are  passionate to make easy Script from Install
 - [Project 2](https://github.com/Xreatlabs/panel-installer ): it install Game panel in 1 click.
 
 ### 🌐 Connect with Us:
-- [Twitter](https://twitter.com/soon)
+- [Twitter](https://x.com/xreatlabs?t=zZcHezfQN1UUzz_1nwXimw&s=09)
 - [Instagram](https://www.instagram.com/invites/contact/?igsh=vak7oe8t1ft0&utm_content=vcv37yn)
 - [Discord](https://discord.gg/yAgRafG6JD)
