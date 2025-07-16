@@ -15,7 +15,7 @@ Welcome to Xreatlabs GitHub! We are  passionate to make easy Script from Install
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xreatlabs&show_icons=true&count_private=true&theme=radical)
 
 ### 💻 Pinned Projects:
-- [Project 1](https://github.com/Xreatlabs/mcsoftware-installer ): it install Minecraft server software like Paper,purper,bungee, velocity,etc.
+- [Project 1](https://github.com/Xreatlabs/NexAuth ): A Auth plugin for many Software 
 - [Project 2](https://github.com/Xreatlabs/panel-installer ): it install Game panel in 1 click.
 
 ### 🌐 Connect with Us:
