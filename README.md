@@ -16,7 +16,7 @@ Welcome to Xreatlabs GitHub! We are  passionate to make easy Script from Install
 
 ### 💻 Pinned Projects:
 - [Project 1](https://github.com/Xreatlabs/NexAuth ): A Auth plugin for many Software 
-- [Project 2](https://github.com/Xreatlabs/panel-installer ): it install Game panel in 1 click.
+- [Project 2](https://github.com/Xreatlabs/XDiscordUltimate ): A minecraft to discord plugin.
 
 ### 🌐 Connect with Us:
 - [Twitter](https://x.com/xreatlabs?t=zZcHezfQN1UUzz_1nwXimw&s=09)
