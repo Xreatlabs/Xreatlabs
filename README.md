@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Gemini_Generated_Image_73ixf473ixf473ix.jpeg" alt="XreatLabs Logo" width="200">
+  <img src="xreatlabs.jpeg" alt="XreatLabs Logo" width="200">
 </p>
 
 <h1 align="center">👋 Hey, we are <span style="color:#00bcd4;">XreatLabs</span></h1>
